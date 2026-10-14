@@ -1,6 +1,10 @@
-# IC开放题／创意题：67道答案
+# IC开放题／创意题：67道答案｜逻辑修订版
 
 ## 使用说明
+
+本次修订36题：O1、O3、O5、O6、O7、O10、O11、O13、O14、O16、O20、O22、O24、O26、O27、O28、O29、O30、O32、O35、O36、O39、O41、O42、O43、O45、O46、O47、O51、O54、O55、O59、O61、O62、O64、O67。O3和O26仅补全中文，其余34题调整英文与相应译文。
+
+逻辑修订版：已重新检查全部67题。针对缺少明确选择、比较维度不一致、例子不足、时态混用和中文漏译等问题修订，并保留可用答案。
 
 本资料只覆盖附件第6部分“开放题（创意题，1分钟）”O1—O67，保留原题顺序；附件中的备考建议作为背景，不替代你的写作要求。
 
@@ -10,7 +14,7 @@
 
 一分钟能否讲完取决于语速、停顿和题目难度，建议逐题录音计时。保留自己的语气，并允许实际作答比文字更简洁。
 
-个人事实示范：O45酵种、O50收藏、O51玩具、O54做饭、O59家、O65笔记本均为拟议内容，不代表你真实拥有或经历。请改成真实素材，勿把示范照搬成个人事实。O30文化背景及其他偏好题也应与你本人一致。
+个人事实示范：O45酵种、O50收藏、O51玩具、O54做饭、O59家、O65笔记本均为拟议内容，不代表你真实拥有或经历。请改成真实素材，勿把示范照搬成个人事实。其他偏好题的选择也应与你本人一致。
 
 比较题使用不同判断标准，三用法题明确给出三项，脑洞题先回应再展开。幽默、观察、解释和价值判断分布在不同题目中，不要求每题都升华成大道理。
 
@@ -32,11 +36,11 @@
 
 **English · 100 words**
 
-Hair and skin both tell stories about us, but they communicate in different ways. Hair is almost like an editable headline: we can cut it, colour it, or change its shape to express a mood. Skin is closer to a living archive, carrying signs of age, sunlight, and sometimes experience. Both also protect us, although skin performs a much broader biological role. What interests me is how society judges these visible features before knowing the person. I would enjoy experimenting with hair, while being careful about those judgements. Appearance introduces us, while leaving room for the stories we choose ourselves.
+Hair and skin both protect our bodies and influence appearance, but their functions and flexibility differ. Hair provides some insulation and protection, while skin forms a much broader barrier and lets us feel touch and temperature. We can change a hairstyle quickly, making hair a useful tool for expression. Skin changes too, but often through slower processes such as ageing or healing. That difference makes hair feel like an outfit and skin more like part of our personal history. Still, neither reliably reveals character. I would enjoy changing my hair while remembering that appearance offers clues, never a complete biography.
 
 **完整中文翻译**
 
-头发和皮肤都能讲述关于我们的故事，但表达方式不同。头发像可以修改的标题：我们能剪发、染发或改变造型来表达心情。皮肤则更像一本活的档案，留下年龄、阳光，有时还有经历的痕迹。两者也保护我们，不过皮肤承担的生物功能广泛得多。我感兴趣的是，社会常在了解一个人之前，就根据这些可见特征作出判断。我愿意尝试不同发型，同时警惕这些判断。外貌介绍我们，同时为我们自己选择讲述的故事留出空间。
+头发和皮肤都保护身体，也影响外貌，但它们的功能和可改变程度不同。头发提供一定的保温与保护作用，皮肤则形成范围更广的屏障，并让我们感受到触碰与温度。我们能迅速改变发型，所以头发是表达自我的有用工具。皮肤也会变化，但往往通过衰老或愈合等较慢的过程。这种差别让头发像一套衣服，皮肤则更像个人经历的一部分。不过，两者都不能可靠地揭示性格。我会享受改变发型，同时记住：外貌提供线索，却从来不是完整的人生传记。
 
 
 ## O02. 汽车 vs 火车
@@ -62,7 +66,7 @@ For a short urban journey, I would usually choose a bicycle because it changes h
 
 **完整中文翻译**
 
-短途城市出行时，我通常会选自行车，因为它改变了我体验城市的方式。我会注意街道的坡度、面包店的香气，以及自己用力能骑多远。汽车提供遮风挡雨、载物能力，也方便完成不适合骑车的行程。不过，当所有人都为了方便选择汽车时，拥堵可能削弱大家的方便程度。我会根据距离、安全、能力和行李选择，而不宣布某一种普遍更好。
+对于城市中的短途出行，我通常会选择自行车，因为它改变了我体验城市的方式。我会注意到街道的坡度、面包店的香气，以及靠自己的努力能走多远。汽车能遮风挡雨、携带更多物品，也能让我们完成那些不适合骑车的行程。不过，当所有人都为了方便而选择汽车时，拥堵可能削弱大家共同享有的便利。因此，自行车引出了一个有用的问题：这段行程究竟需要多大的交通工具？我会根据距离、安全、身体能力和行李来选择，而不是宣布某种交通方式在所有情况下都更好。
 
 
 ## O04. 船 vs 飞机
@@ -84,11 +88,11 @@ A plane compresses distance, while a boat makes distance part of the experience.
 
 **English · 100 words**
 
-A boat and a car both extend human movement, but they reveal how much freedom depends on the environment. A car can turn at the next junction, provided a road exists. A boat can seem freer on open water, yet weather, depth, and safe landing points shape its possibilities. I like this apparent contradiction: open space does not always mean unrestricted choice. For everyday errands, the car is usually more practical where roads connect the places I need. For crossing water or experiencing a coastline, the boat becomes essential. I would compare the obstacles each solves before imagining unrestricted freedom.
+A boat and a car both extend human movement, but they reveal how much freedom depends on the environment. A car can turn at the next junction, provided a road exists. A boat can seem freer on open water, yet weather, depth, and safe landing points shape its possibilities. I like this apparent contradiction: open space does not always mean unrestricted choice. For everyday errands, the car is usually more practical where roads connect the places I need. For exploring coastal waters, boats offer access where roads cannot reach. I would compare the obstacles each solves before imagining unrestricted freedom.
 
 **完整中文翻译**
 
-船和汽车都扩展了人的移动能力，但也说明自由多么依赖环境。只要有路，汽车能在下一个路口转弯。船在开阔水面上似乎更自由，但天气、水深和安全靠岸点决定了它的可能性。我喜欢这个表面矛盾：空间开阔并不总意味着选择没有限制。若日常办事的地点都有道路连接，汽车通常更实用；若要渡水或体验海岸线，船就不可或缺。在想象不受限制的自由之前，我会比较两者各自解决的障碍。
+船和汽车都扩展了人的移动能力，但也说明自由多么依赖环境。只要有路，汽车能在下一个路口转弯。船在开阔水面上似乎更自由，但天气、水深和安全靠岸点决定了它的可能性。我喜欢这个表面矛盾：空间开阔并不总意味着选择没有限制。若日常办事的地点都有道路连接，汽车通常更实用；探索近岸水域时，船能到达道路无法通向的地方。在想象不受限制的自由之前，我会比较两者各自解决的障碍。
 
 
 ## O06. 水果 vs 蔬菜
@@ -97,11 +101,11 @@ A boat and a car both extend human movement, but they reveal how much freedom de
 
 **English · 100 words**
 
-Fruit and vegetables show how the same object can belong to different categories depending on the question. Botanically, a tomato is a fruit, but in a kitchen we usually treat it as a vegetable because of how we cook and serve it. Neither perspective is useless; each organises knowledge for a different purpose. Nutritionally, I would focus more on variety and preparation than on making one category the winner. What I find interesting is that everyday labels feel obvious until a boundary case appears. The tomato reminds me to ask what categories explain before insisting on one supposedly correct label.
+I would compare fruit and vegetables through both biology and everyday eating. In the kitchen, fruit is often sweet and eaten raw, while vegetables commonly appear in savoury dishes, although there are exceptions. Botanically, fruit develops from a flower and contains seeds, which makes a tomato a fruit even when we cook it as a vegetable. I find that overlap more interesting than a strict division: the same tomato can belong to different categories serving different purposes. For my diet, the practical lesson is to eat a variety of both, rather than let a label decide what deserves my plate.
 
 **完整中文翻译**
 
-水果和蔬菜说明，同一物品会因问题不同而被划入不同类别。植物学上，番茄是果实；在厨房中，我们通常根据烹调和食用方式把它当成蔬菜。两种视角都有用，因为它们服务于不同目的。从营养角度，我更关注种类多样性和烹调方式，而不是让某一类别胜出。我觉得有趣的是，日常标签看起来理所当然，直到边界案例出现。番茄提醒我，坚持一个所谓正确标签之前，要先问分类解释了什么。
+我会从生物学和日常饮食两个角度比较水果与蔬菜。在厨房里，水果通常较甜，常被生吃；蔬菜则常用于咸味菜肴，当然也有例外。从植物学上看，果实由花发育而来，里面含有种子，所以即使我们把番茄当蔬菜烹饪，它仍然是果实。我觉得这种重叠比严格划分更有意思：同一个番茄可以属于服务于不同目的的不同类别。对我的饮食而言，实际启示是多样化地吃这两类食物，而不是让一个标签决定什么值得出现在我的餐盘里。
 
 
 ## O07. 门 vs 窗户
@@ -110,11 +114,11 @@ Fruit and vegetables show how the same object can belong to different categories
 
 **English · 100 words**
 
-A door manages participation; a window manages perspective. Through a window, I can observe a world without entering it. Through a door, I cross a boundary and become involved. Both connect spaces while preserving separation, but they offer different degrees of access. I would choose a window when I need light or time to understand a situation, and a door when I am ready to act. There is also an important social dimension: a welcoming building needs entrances people can actually use, not just attractive views. It reminds me that seeing an opportunity and accessing it are two different experiences.
+Doors and windows both connect a room to the outside, but they control different kinds of access. A door lets people enter and leave; a window usually brings in light, views, and sometimes fresh air. Both also help regulate privacy, depending on whether we open, close, or cover them. Imagine a garden outside: the window allows me to appreciate it while working indoors, whereas the door allows me to step into it. That gives the comparison a useful metaphor. Seeing a possibility and being able to participate are different things; a welcoming space should provide both a view and access.
 
 **完整中文翻译**
 
-门管理参与，窗管理视角。透过窗，我能观察一个世界而不进入其中；穿过门，我越过边界并参与其中。两者既连接空间，也保留区隔，但提供的进入程度不同。需要光线或时间理解情境时，我会选择窗；准备行动时，我会选择门。这里也有重要的社会层面：一座友好的建筑需要人们真正能使用的入口，而不只是好看的风景。它提醒我，看见机会与获得机会是两种不同体验。
+门和窗都把房间与外界连接起来，但它们控制的是不同形式的接触。门让人进入和离开；窗通常带来光线、景色，有时还有新鲜空气。我们选择打开、关闭或遮住它们时，两者也都能帮助调节私密性。设想外面有一座花园：窗让我在室内工作时欣赏花园，门则让我真正走进去。这就为比较提供了一个有用的比喻。看见一种可能性和能够参与其中，是两回事；一个让人感到受欢迎的空间，应同时提供看见外界的视野和进入其中的通道。
 
 
 ## O08. 眼睛 vs 嘴巴
@@ -149,11 +153,11 @@ Hands help us shape the world, while feet help us find our place within it. A ha
 
 **English · 100 words**
 
-The ocean makes me think about scale and connection; a lake makes me think about attention and boundaries. Oceans connect distant places through currents and trade, while a lake can reveal a local landscape in unusually concentrated detail. Standing beside either, I might feel calm, but their ecosystems and risks are not interchangeable. A quiet surface does not tell us how healthy the water is. I would enjoy the ocean when I want a sense of possibility and a lake when I want to notice what is nearby. Their surfaces conceal complex relationships that deserve attention beyond what we see.
+Oceans and lakes are both water ecosystems, but their scale and surroundings create different experiences. Oceans form vast connected saltwater systems, usually with noticeable tides. Lakes are enclosed by land and are often freshwater, although some are salty. On an ocean shore, I can imagine distant places connected by the same water. Beside a small lake, I can often see the opposite bank and follow details around its edge. I would choose the ocean for a sense of distance and a lake for a closer encounter with one landscape. Both deserve protection, despite the different feelings their shores can inspire.
 
 **完整中文翻译**
 
-海洋让我想到尺度与连接，湖泊让我想到专注与边界。海洋通过洋流和贸易连接遥远地区，湖泊则能集中呈现一处地方的景观。站在它们旁边，我都可能感到平静，但两者的生态系统和风险不能混为一谈。安静的水面不能说明水体有多健康。想感受可能性时，我会喜欢海洋；想关注身边事物时，我会喜欢湖泊。它们表面掩藏着复杂关系，值得我们关注可见部分以外的内容。
+海洋和湖泊都是水域生态系统，但它们的范围与周围环境带来了不同体验。海洋构成广阔、相互连接的咸水系统，通常有明显的潮汐。湖泊被陆地包围，往往是淡水，不过也有咸水湖。站在海岸边，我可以想象那些由同一片水连接起来的遥远地方。站在小湖旁，我常能看到对岸，沿着湖边观察细节。如果想感受远方，我会选择海洋；如果想近距离接触一处景观，我会选择湖泊。尽管岸边唤起的感受不同，两者都值得保护。
 
 
 ## O11. 草 vs 沙子
@@ -162,11 +166,11 @@ The ocean makes me think about scale and connection; a lake makes me think about
 
 **English · 100 words**
 
-Grass and sand produce very different relationships with a landscape. Grass is living growth: it changes with seasons and depends on water, soil, and care. Sand consists of small particles shaped and moved by forces such as wind and water. Yet neither is merely a surface. A lawn may support some uses while requiring substantial maintenance, and a sandy environment can contain specialised life we overlook. Personally, grass suggests a place to pause; sand suggests movement, especially when footprints disappear. I find that disappearance interesting because it makes a visit feel temporary. Landscapes deserve appreciation without automatically serving my convenience.
+Grass and sand feel different because one is living growth and the other is loose material. Grass roots help hold soil together, creating a surface where I might picnic or play. Sand shifts underfoot, making walking harder but allowing shapes such as sandcastles to be built and changed. I like that contrast: grass invites me to settle, while sand invites me to experiment. However, both respond to conditions beyond my control. Grass can dry out, and wind or waves can erase a sandcastle. Comparing them reminds me that a landscape shapes my activities even as I try to shape it.
 
 **完整中文翻译**
 
-草与沙让人与景观建立不同关系。草是有生命的生长，会随季节变化，依赖水、土壤和照料。沙由小颗粒组成，受到风和水等力量塑造与搬运。但它们都不只是地表。草坪方便一些用途，却可能需要大量维护；沙地也可能存在我们忽视的特殊生命。对我而言，草意味着停留，沙意味着变化，尤其当脚印消失时。我觉得这种消失很有趣，因为它让来访显得短暂。景观值得欣赏，而不必自动服务我的方便。
+草与沙的触感不同，因为一个是有生命的生长物，另一个是松散的材料。草根帮助固定土壤，形成可供我野餐或玩耍的地面。沙在脚下移动，让行走更费力，却也允许我们搭建并改变沙堡之类的形状。我喜欢这种对比：草让人想安顿下来，沙让人想动手尝试。不过，两者都会对我无法控制的条件作出反应。草可能干枯，风浪则可能抹去沙堡。比较它们让我意识到：即使我试图塑造景观，景观也在塑造我能开展的活动。
 
 
 ## O12. 城市 vs 村庄
@@ -188,11 +192,11 @@ A city offers density of possibility: more people, services, and unexpected enco
 
 **English · 100 words**
 
-A wired charger makes the connection visible; a wireless charger makes it more convenient in some everyday situations. With a cable, I can often keep using the phone while charging and understand immediately whether it is connected. A charging pad reduces repeated plugging, but positioning, compatibility, and energy losses can affect the experience. I would choose a cable for reliability while travelling and consider a pad for a stable desk routine. What interests me is the difference between removing a visible action and removing effort overall. convenience reduces uncertainty and interruption, rather than merely hiding the equipment doing the work.
+I would compare wired and wireless charging by what I need to do while charging. A cable usually lets me move the phone around and use it without interrupting the connection. A charging pad saves repeated plugging, but the phone generally needs to stay correctly positioned, and energy losses can be higher. At a desk, placing my phone down to charge could become a convenient habit. While travelling or making a long call, I would prefer a cable. The distinction is that fewer actions do not automatically mean less inconvenience. Good design depends on how the product fits everyday behaviour.
 
 **完整中文翻译**
 
-有线充电器让连接可见，无线充电器则在一些日常情境中更方便。使用电线时，我通常能边充边用，也能立即知道是否连接。充电板减少了反复插拔，但放置位置、兼容性和能量损失都会影响体验。旅行时我会为可靠性选择电线；固定书桌上则可以考虑充电板。我感兴趣的是，去掉一个看得见的动作，与减少整体努力并不相同。便利减少不确定性和打断，而不只是藏起完成工作的设备。
+我会根据充电时需要做什么，来比较有线与无线充电。充电线通常让我能移动手机并继续使用，而不打断连接。充电板省去了反复插拔，但手机一般需要保持在正确位置，能量损失也可能更高。在书桌旁，放下手机顺便充电可以成为一种方便的习惯。旅行或长时间通话时，我更愿意用充电线。区别在于：动作变少，不自动意味着不便也变少。好的设计取决于产品如何融入日常行为。
 
 
 ## O14. 世界上窗户更多还是树更多
@@ -201,11 +205,11 @@ A wired charger makes the connection visible; a wireless charger makes it more c
 
 **English · 100 words**
 
-My guess is that there are more trees than windows worldwide, but I would explain the estimate rather than pretend certainty. First, I would clarify whether we count building windows, vehicle windows, and small saplings. Then I would estimate windows from the number of buildings and their average window counts, separating homes from large commercial buildings. For trees, I would use land area and approximate density across forests and other habitats. The result could change with definitions, but trees seem likely to dominate globally. The useful answer exposes assumptions and possible reversals, instead of offering a precise but unsupported number.
+I would choose trees and test that guess with rough assumptions. Suppose eight billion people correspond to one hundred windows each, allowing generously for homes, offices, and vehicles. That gives eight hundred billion windows. Suppose forests cover thirty million square kilometres and average fifty thousand trees per square kilometre. That gives one and a half trillion trees, before counting trees elsewhere. These are illustrative estimates, not measured totals, so I would check the assumptions before claiming certainty. Still, they explain why I favour trees: forest area multiplied by tree density can outweigh even a generous allowance for windows per person.
 
 **完整中文翻译**
 
-我猜全球树比窗户多，但会解释估算，而不会假装确定。首先要明确是否计入建筑窗、车窗和小树苗。然后根据建筑数量和平均窗户数量估算窗户，并区分住宅与大型商业建筑。树则可以根据森林等生境的面积与大致密度估算。定义改变可能改变结果，不过全球范围内树很可能占优势。有用的回答展示假设及可能的反转，而不提供精确却无根据的数字。
+我会选择树更多，并用粗略假设检验这个猜测。假设全球有八十亿人，平均每人对应一百扇窗，为住宅、办公室和车辆留出较宽裕的计算空间，就得到八千亿扇窗。再假设森林覆盖三千万平方公里，每平方公里平均有五万棵树，就得到一点五万亿棵树，还未计入其他地方的树。这些是说明思路的估算，并非实际测得的总量，所以在声称确定之前，我会核查假设。不过，它们解释了我为什么倾向于树：森林面积乘以树木密度，可能超过按每人计算、已经留得很宽裕的窗户数量。
 
 
 ## O15. 世界上人更多还是车更多
@@ -227,11 +231,11 @@ I would expect people to outnumber cars globally. The simplest reason is that ca
 
 **English · 100 words**
 
-I would back the cucumber in a wrestling match because it seems sturdier, but the banana would win a popularity contest. The question becomes much more interesting once we define what winning means. If the challenge involved making someone laugh, the banana's curved shape and familiar comic associations would give it an advantage. If both could negotiate, I would suggest abandoning the fight and opening a smoothie stand, although the recipe would need testing. My answer is playful, but the reasoning is serious: strengths depend on the rules and the objective. I would first ask whether cooperation could outperform competition.
+I would bet on the cucumber, assuming both contestants are fresh and roughly the same size. Its firmer body should withstand contact better, while a banana is easier to bruise or squash. The banana does have a clever option: throwing its peel onto the floor to make the cucumber slip. However, removing its armour would leave the banana even more vulnerable, so that strategy is risky. Ripeness could change everything; a green banana might be tougher than an old cucumber. My verdict is cucumber under ordinary conditions, with banana winning the prize for tactical imagination and perhaps the audience's sympathy.
 
 **完整中文翻译**
 
-摔跤赛中我会支持黄瓜，因为它看起来更结实；人气赛中香蕉会赢。一旦明确赢意味着什么，这题就更有意思。如果挑战是逗人笑，香蕉的弯曲外形和常见喜剧联想会让它占优。如果它们能谈判，我会建议停止打架，合开一家果昔店，不过配方还需要测试。答案很轻松，但推理是认真的：优势取决于规则和目标。我会先问合作能否比竞争创造更好的结果。
+我会押黄瓜赢，前提是双方都新鲜、大小大致相同。黄瓜更坚实的身体应该更能承受碰撞，而香蕉更容易碰伤或被压扁。不过，香蕉确实有一个聪明的选择：把皮扔到地上，让黄瓜滑倒。然而，脱掉这层盔甲会让香蕉更加脆弱，所以这个策略有风险。成熟度可能改变一切；青香蕉也许比放久了的黄瓜更结实。我的判定是，正常条件下黄瓜获胜，而香蕉赢得战术想象力奖，或许也能赢得观众的同情。
 
 
 ## O17. 纸（Paper）的三种用法
@@ -279,11 +283,11 @@ I can think of three uses for a tennis ball. First, it is a tool for practising 
 
 **English · 100 words**
 
-I would use a mirror for self-observation, communication, and design. First, it helps me check appearance or practise a presentation, although facial expression matters more than trying to look perfect. Second, a small mirror can reflect light as a visible signal in suitable outdoor conditions; I would treat that as an additional method, not a guaranteed rescue system. Third, a mirror can help inspect a room from another angle or redistribute available light, without actually increasing the room's size. All three uses depend on reflection, but serve different needs. Reflection can help us understand ourselves and influence our surroundings differently.
+I would use a mirror to rehearse a presentation, send a signal, and brighten a room. First, practising in front of it helps me notice whether my expression supports my message, rather than simply checking my appearance. Second, outdoors, I could angle a small mirror to reflect sunlight towards someone who needs to locate me. Third, angling a mirror near a window can redirect daylight into a darker corner of the room. These uses draw on the same property but solve different problems. What I like is that reflection can improve communication or surroundings without changing the original light source.
 
 **完整中文翻译**
 
-我会用镜子进行自我观察、沟通和设计。首先，它帮助我检查外表或练习演讲，不过表情比追求完美外貌更重要。其次，小镜子在合适户外条件下能反射光线，形成可见信号；我会把它当补充方法，不保证一定获救。第三，镜子能帮助从另一角度检查房间，或重新分配现有光线，但不会真的增大房间。三种用途都依赖反射，却服务不同需求。反射能帮助我们以不同方式理解自己、影响周围环境。
+我会用镜子练习演讲、发出信号，以及让房间更明亮。首先，对着镜子练习，能帮助我留意表情是否支持我想传达的信息，而不只是检查外表。其次，在户外，我可以调整小镜子的角度，把阳光反射向需要找到我的人。第三，在窗户附近斜放一面镜子，可以将日光引向房间中较暗的角落。这些用途利用同一种性质，却解决不同的问题。我喜欢的一点是，反射能够在不改变原有光源的情况下，改善沟通或者周围环境。
 
 
 ## O21. 书（Book）的三种用法
@@ -305,11 +309,11 @@ A book can be a source of knowledge, an object of conversation, and a design too
 
 **English · 100 words**
 
-A cup of water can meet a need, reveal a property, and support an experiment. First, I can drink it when thirsty. Second, I can place it near light to observe refraction, using the water to explore how a familiar object appears distorted through the cup. Third, I can use some to water a plant, checking that the plant needs it. I would choose the use according to context rather than insist on the most inventive option. If someone is dehydrated, drinking is more valuable than a clever demonstration. Creativity includes recognising when an ordinary function is the right answer.
+A cup of water could refresh a person, support a plant, or demonstrate an optical effect. First, I would drink it if I were thirsty. Second, I could water a plant whose soil was dry. Third, placing a pencil inside a clear cup would make it appear bent at the water's surface, offering a simple demonstration of refraction. These uses turn one ordinary resource into nourishment or a learning tool. However, I would choose according to the situation: someone needing a drink takes priority over an interesting experiment. Creativity matters most when the idea answers a real need or question.
 
 **完整中文翻译**
 
-一杯水能满足需要、展示性质和支持实验。首先，口渴时我可以喝它。其次，把它放在光线附近可以观察折射，探索熟悉物体透过水杯为何显得变形。第三，可以取一些水浇植物，但要先确认植物需要水。我会根据情境选用途，而不坚持选最有创意的方案。如果有人缺水，饮用比聪明的演示更有价值。创意也包括认识到，普通功能何时恰好就是正确答案。
+一杯水可以让人恢复精神、滋养植物，或者演示一种光学现象。首先，如果口渴，我会喝它。其次，我可以用它浇灌土壤已经干燥的植物。第三，把铅笔放进透明的杯子，会让铅笔在水面位置看起来像是弯折了，从而提供一个简单的折射演示。这些用途让一种普通资源成为滋养来源或者学习工具。不过，我会根据情况选择：需要喝水的人，应当优先于有趣的实验。创意最有价值的时候，是它能够回应一个真实的需要或者问题。
 
 
 ## O23. 绳子（String）的三种用法
@@ -331,11 +335,11 @@ I would use string to measure, organise, and tell a story. For measuring, it can
 
 **English · 100 words**
 
-Shoes have three roles I would emphasise: protection, participation, and expression. They protect feet from unsuitable surfaces and weather, depending on their design. They also make particular activities more accessible, such as hiking or working in environments that require specialised footwear. Finally, people use shoes to express style, identity, or respect for an occasion. These roles sometimes conflict: an attractive shoe may be uncomfortable, and a highly specialised one may be unnecessary for everyday life. I would judge shoes by how well they support the person wearing them. Good design makes confidence compatible with comfort, rather than demanding an compromise.
+I see three functions for shoes: protecting the body, improving movement, and communicating identity. Protection means shielding feet from sharp surfaces, cold, or workplace hazards. Performance is different: a running shoe's cushioning or a hiking shoe's grip can help someone move more comfortably in particular conditions. Finally, shoes communicate choices about style or an occasion; wearing formal shoes to an interview can signal preparation. These functions explain why one pair rarely suits every situation. I would choose according to the activity rather than appearance alone. A good shoe should help its wearer do something, while expressing something they actually value.
 
 **完整中文翻译**
 
-我想强调鞋子的三种作用：保护、参与和表达。根据设计，它们保护脚免受不适合的地面和天气影响。它们也让某些活动更方便，例如徒步，或在需要专门鞋具的环境工作。最后，人们用鞋表达风格、身份或对场合的尊重。这些作用有时冲突：好看的鞋可能不舒服，高度专业的鞋可能没必要天天穿。我会根据鞋能否支持穿着者来评价它。良好设计让自信与舒适兼容，而不要求妥协。
+我认为鞋子有三种功能：保护身体、改善运动表现，以及传达身份。保护是指让双脚免受尖锐地面、寒冷或者工作场所危险的伤害。运动表现则有所不同：跑鞋的缓震，或者徒步鞋的抓地力，能够帮助人在特定条件下更舒适地移动。最后，鞋子传达了人对风格或者场合的选择；穿正式的鞋去面试，可以传递认真准备过的信号。这些功能解释了为什么一双鞋很少适用于所有情况。我会根据活动来选择，而不只看外观。一双好鞋应当帮助穿着者完成某件事，同时表达他们真正看重的东西。
 
 
 ## O25. 对花的看法
@@ -361,7 +365,7 @@ I think of trees as long-term neighbours. They grow on a timescale that encourag
 
 **完整中文翻译**
 
-我把树看成长久的邻居。它们的生长尺度让人学会耐心，同时提供树荫、栖息地和生态联系。在城市里，一棵树也能改变街道感受，让停留或步行更舒服。不过，种树并不自动构成完整环境方案，树种、位置、维护和土地用途冲突都重要。树回应持续照料，提醒我有意义的进步可能超出项目期限。
+我把树看成长久的邻居。它们的生长时间尺度让人学会耐心，同时提供树荫、栖息地和生态系统内的联系。在城市里，一棵树也能改变街道给人的感受，让停留或者步行更舒适。不过，种树并不自动成为完整的环境解决方案。树种、位置、维护，以及不同土地用途之间的竞争，都很重要。我会关注植树活动之后那份不那么显眼的长期承诺：在接下来的几年里，谁来浇水并保护这棵树？树木回馈持续的照料，提醒我有意义的进步可以延续到项目截止日期之后。
 
 
 ## O27. 对城市（cities）的看法
@@ -370,11 +374,11 @@ I think of trees as long-term neighbours. They grow on a timescale that encourag
 
 **English · 100 words**
 
-Cities are collective experiments in living close together. Their streets, transport, housing, and public spaces reveal decisions about whose time and comfort matter. I enjoy the unexpected encounters a city makes possible, but density alone does not create a good life. A city can offer thousands of choices while making ordinary tasks exhausting. I would judge it through a simple test: can different people reach what they need without unreasonable effort? That includes a student, a parent with a pushchair, and someone with limited mobility. My favourite city combines discovery with manageable routines, making everyday usability a generous public commitment.
+I would judge a city by an ordinary Tuesday, rather than its most impressive skyline. Can a student reach a library, a parent push a pram safely, and an older person find somewhere to rest? Those questions reveal how a city distributes convenience. I enjoy the discoveries that density makes possible, including unfamiliar food and unexpected conversations. However, opportunities matter less when exhausting journeys make them difficult to access. My ideal city combines surprise with reliable routines. It leaves room for exploration without turning everyday life into an obstacle course. For me, a welcoming city makes participation possible for people.
 
 **完整中文翻译**
 
-城市是人们密集生活的集体实验。街道、交通、住房和公共空间反映了决策者在乎谁的时间和舒适。我喜欢城市带来的意外相遇，但密度本身不会创造美好生活。城市能提供数千种选择，却也可能让日常事务令人疲惫。我会用简单标准评价：不同的人能否不费过度努力就获得所需？这包括学生、推婴儿车的家长和行动不便者。理想城市把发现与可应付的日常结合，把日常好用当成慷慨的公共承诺。
+我会通过一个普通星期二来评价城市，而不是通过它最壮观的天际线。学生能否到达图书馆？家长能否安全地推着婴儿车行走？老人能否找到休息的地方？这些问题揭示了城市如何分配便利。我喜欢人口密集带来的发现，包括不熟悉的食物和意外的交谈。不过，如果令人疲惫的出行让机会难以获得，那么机会本身的意义也会降低。我理想中的城市，把惊喜与可靠的日常安排结合起来。它为探索留出空间，又不把日常生活变成障碍赛。对我而言，一座友好的城市让人们能够参与其中。
 
 
 ## O28. 对云的（clouds）看法
@@ -383,11 +387,11 @@ Cities are collective experiments in living close together. Their streets, trans
 
 **English · 100 words**
 
-Clouds make me think about uncertainty that can still be useful. They change shape continuously, so trying to give one a permanent label feels slightly absurd. Yet they carry information about weather and form part of the water cycle. I like the contrast between imaginative interpretation and physical explanation: one person sees a dragon, while another notices a developing storm. Both are engaging, but only one should guide a decision about outdoor safety. Clouds remind me to enjoy possibilities while checking which claims require evidence. I can invent stories about their shapes, then check the forecast before making outdoor plans.
+I like clouds because they invite two kinds of attention. Looking casually, I might see a dragon or a face; looking carefully, I might notice that the sky is darkening before rain. The same view can inspire a story or inform a practical decision. However, those interpretations have different standards: an imaginary dragon needs no proof, while predicting weather requires more than one glance. That distinction makes clouds interesting to me. They let me enjoy ambiguity without pretending every interpretation is equally reliable. I would happily invent shapes during a walk, then check the forecast before planning a longer journey.
 
 **完整中文翻译**
 
-云让我想到仍然有用的不确定性。它们不断变形，因此给一朵云贴永久标签显得有点荒诞。但云也包含天气信息，是水循环的一部分。我喜欢想象解释与物理解释之间的差别：一人看见龙，另一人察觉风暴正在形成。两者都有趣，但只有后一种适合指导户外安全决策。云提醒我享受可能性，同时检查哪些主张需要证据。我能给云的形状编故事，然后在安排户外计划前查预报。
+我喜欢云，因为它们引发两种不同的观察方式。随意地看，我可能看见一条龙或者一张脸；仔细地看，我可能注意到下雨之前天空正在变暗。同一片景象，既可以启发故事，也可以为实际决策提供信息。不过，这些解读有不同的标准：想象中的龙不需要证据，而预测天气不能只靠看一眼。这个区别让我觉得云很有意思。它们让我享受含糊和多种可能，同时不必假装所有解释都同样可靠。散步时，我会愉快地想象云的形状；计划更长的行程之前，我则会查看天气预报。
 
 
 ## O29. 对镜子的看法
@@ -396,11 +400,11 @@ Clouds make me think about uncertainty that can still be useful. They change sha
 
 **English · 100 words**
 
-A mirror offers immediate feedback, but only from one limited angle. It shows what is visible at that moment, while leaving out personality, relationships, and the way someone makes others feel. That makes it useful for checking a practical detail, but a poor judge of personal worth. I also find mirrors interesting because they can alter our experience of space without changing its physical boundaries. They invite a question about representation: how much of what we see is the thing itself, and how much is the viewing arrangement? I would use the reflection as information, rather than my complete story.
+I see a mirror as a useful editor, but an unreliable judge. It can tell me that my collar needs adjusting or that my expression looks tense before a presentation. Yet lighting, angle, and the moment I choose all affect what I see. More importantly, a reflection cannot show whether I listen well, keep promises, or make someone feel included. That is why I would use it for practical feedback without asking it to measure my worth. I like the distinction: improving how I present myself can be helpful, provided I remember that appearance is only one part of me.
 
 **完整中文翻译**
 
-镜子提供即时反馈，但只来自一个有限角度。它呈现此刻可见的部分，却省略性格、关系以及一个人带给他人的感受。因此，它适合检查实际细节，却不适合评判个人价值。镜子也能在不改变物理边界的情况下改变空间体验，这让我感兴趣。我会把倒影当信息，而不是我的完整故事。
+我把镜子看作一个有用的编辑，却不是可靠的评判者。它可以告诉我领口需要调整，或者演讲前的表情看起来紧张。然而，光线、角度，以及我选择照镜子的那个时刻，都会影响我看见的样子。更重要的是，倒影无法显示我是否善于倾听、信守承诺，或者让别人感到被接纳。因此，我会用镜子获得实际的反馈，却不让它衡量我的价值。我喜欢这个区分：改善自己呈现出来的样子可以有帮助，前提是记住，外表只是我的一部分。
 
 
 ## O30. 对红色的看法
@@ -409,11 +413,11 @@ A mirror offers immediate feedback, but only from one limited angle. It shows wh
 
 **English · 100 words**
 
-Red feels like a colour that asks to be noticed. It can suggest excitement, celebration, danger, or intimacy, depending on the context. Growing up around Chinese cultural references, I associate it with festive occasions, but I would avoid assuming that association is universal. A red warning light and a red wedding decoration ask for very different responses. What interests me is how a small visual choice can change the emotional tone of an experience. I would use red deliberately when something deserves emphasis, while giving it enough space to remain effective. When everything demands attention, even red loses its guidance.
+Red feels like a colour that asks to be noticed. It can suggest excitement, celebration, danger, or intimacy, depending on the context. In Chinese celebrations, red often conveys good fortune, but I would avoid assuming that association is universal. A red warning light and a red wedding decoration ask for very different responses. What interests me is how a small visual choice can change the emotional tone of an experience. I would use red deliberately when something deserves emphasis, while leaving quieter colours around it. If everything competes for attention, people may struggle to identify what actually needs a response.
 
 **完整中文翻译**
 
-红色像一种要求被注意到的颜色。依情境不同，它可以让人想到兴奋、庆祝、危险或亲密。在中国文化语境中成长，使我把它与节庆联系起来，但我不会假设这种联想普遍适用。红色警示灯与红色婚礼装饰要求非常不同的回应。我感兴趣的是，一个小小的视觉选择能改变体验的情绪基调。我会在值得强调之处有意识地用红色，同时给它留空间来保持效果。当一切都要求关注时，连红色也失去引导力。
+红色给我的感觉，是一种要求人们注意到它的颜色。根据情境不同，它可以让人想到兴奋、庆祝、危险或者亲密。在中国的庆祝场合，红色常常传递好运，但我不会假设这种联想在所有文化中都成立。红色警示灯和红色婚礼装饰，要求人们作出截然不同的回应。我感兴趣的是，一个小小的视觉选择，怎样改变一段体验的情绪基调。某件事值得强调时，我会有意识地使用红色，同时在它周围保留更安静的颜色。如果一切都在争夺注意力，人们可能难以辨认究竟什么需要回应。
 
 
 ## O31. 对绿色怎么看（How do u think colour green）
@@ -435,11 +439,11 @@ Green suggests growth requiring suitable conditions and patience. A plant needs 
 
 **English · 100 words**
 
-Blue makes me think of distance: the sky above us, deep water, and places we cannot immediately reach. It can feel calm, but it can also suggest sadness or isolation. I like that emotional range because colours rarely carry one stable meaning. In a room, blue might help create a quieter atmosphere; in a story, it might underline loneliness. Personally, I would pair blue with something warmer when I want calm without coldness. The colour reminds me that reassurance depends on relationships between elements, not a single choice. Even colours need a welcoming setting to help people feel at ease.
+Blue interests me because it can suggest both calm and distance. A clear sky feels open, while a dim blue room might feel cold or lonely. I would therefore hesitate to call it universally relaxing. If I were designing a study space, I might use muted blue alongside warm lighting and wooden furniture, so the room felt quiet without becoming unwelcoming. Those choices recognise that blue's effect depends on its surroundings and the associations people bring with them into that space. I like colours that invite interpretation. Blue reminds me to consider the whole experience, rather than trust one choice.
 
 **完整中文翻译**
 
-蓝色让我想到距离：头顶天空、深水，以及暂时无法到达的地方。它能让人平静，也能暗示悲伤或孤立。我喜欢这种情绪跨度，因为颜色很少有单一稳定含义。在房间里，蓝色可能营造安静气氛；在故事里，它可能强调孤独。想要平静又不冷淡时，我会把蓝色与更温暖的元素搭配。它提醒我，安心依赖元素间的关系，而不是单一选择。即使颜色，也需要友好环境才能让人自在。
+蓝色让我感兴趣，因为它既能让人想到平静，也能让人想到距离。晴朗的天空给人开阔感，而昏暗的蓝色房间可能让人觉得冷清或者孤独。因此，我不会轻易说蓝色在任何情况下都让人放松。如果设计学习空间，我可能会把柔和的蓝色与温暖的灯光、木质家具搭配，让房间安静，却不显得不友好。这些选择承认，蓝色的效果取决于周围环境，以及人们带入那个空间的联想。我喜欢能够引发解读的颜色。蓝色提醒我考虑整体体验，而不是相信一个单独的选择。
 
 
 ## O33. 对室内植物（indoor plants）的看法
@@ -474,11 +478,11 @@ I like pets, but I see affection as only the beginning of the responsibility. An
 
 **English · 100 words**
 
-I would separate medical progress from everyday health. Compared with fifty years ago, treatments, vaccination, and knowledge have improved, although access remains unequal. At the same time, some lifestyles involve less physical activity, more processed food, and new pressures on mental wellbeing. So I would hesitate to declare everyone healthier or less healthy. The answer depends on the population and the measures we choose, such as survival, mobility, or psychological wellbeing. My conclusion is that we have stronger tools for health but do not always organise daily life to use them well. Progress includes longer lives and better living conditions.
+On balance, I think people today are healthier than fifty years ago, although progress is uneven. Vaccination, safer childbirth, and better treatment mean many illnesses are less likely to end a life early. However, surviving longer does not automatically mean living well: inactivity, chronic disease, and psychological pressure can reduce the quality of those additional years. I would therefore compare both life expectancy and years lived in good health. My overall answer is healthier, but with a warning: medicine has improved our chances, while everyday environments must help us use those chances through prevention, accessible care, and healthier daily routines.
 
 **完整中文翻译**
 
-我会区分医疗进步与日常健康。与五十年前相比，治疗、疫苗和知识有所改善，但获得这些资源的机会仍不平等。同时，有些生活方式带来更少运动、更多加工食品，以及心理健康的新压力。因此，我不愿直接说所有人更健康或更不健康。答案取决于群体和指标，比如生存、行动能力或心理状态。我的结论是，我们有更强的健康工具，却不总把日常生活安排得能充分利用它们。进步包括更长寿，也包括更好的生活条件。
+总体而言，我认为今天的人比五十年前更健康，尽管这种进步并不均衡。疫苗、更安全的分娩和更好的治疗，让许多疾病更不容易使人过早离世。然而，活得更长并不自动意味着活得更好：缺乏运动、慢性病和心理压力，都可能降低这些新增岁月的生活质量。因此，我会同时比较预期寿命和健康生活的年数。我的总体答案是“更健康”，但要加上一点提醒：医学提高了我们的机会，日常环境则必须通过预防、人人能够获得的医疗和更健康的生活习惯，帮助我们利用这些机会。
 
 
 ## O36. 更愿意丢钱包还是手机（rather lose wallet or phone）
@@ -487,11 +491,11 @@ I would separate medical progress from everyday health. Compared with fifty year
 
 **English · 100 words**
 
-Assuming nobody is harmed, I would rather lose my wallet than my phone. A wallet can contain important documents and money, but my phone connects authentication, communication, navigation, and parts of my personal history. Losing it could interrupt several systems at once. That preference also reveals a vulnerability: convenience has concentrated too much dependence in one object. I would therefore keep secure backups and alternative ways to access essential accounts, rather than assume the device will always be available. I would still report either loss promptly and protect affected accounts. I would choose the loss I could recover from safely.
+I would rather lose my wallet. It contains valuable cards and documents, but my phone is also my map, communication channel, and access point for many accounts. Losing it would create several problems simultaneously, especially while travelling alone. A wallet is still painful to replace, yet I could usually freeze my cards and arrange replacement documents while staying connected. This choice exposes how much independence I have concentrated in one device. I would keep recovery codes securely elsewhere and remember an emergency contact number. Given those everyday dependencies, losing the wallet would leave me better equipped to manage the situation.
 
 **完整中文翻译**
 
-假设没人受到伤害，我宁愿丢钱包也不丢手机。钱包可能装重要证件和钱，但手机连接身份验证、通讯、导航和部分个人历史，丢失可能同时打断多个系统。这个偏好也暴露了弱点：便利把过多依赖集中到一个物品上。因此，我会保留安全备份和访问重要账号的替代方法，而不会认定手机一直可用。无论丢哪个，我都会及时报告并保护受影响账号。我会选择能安全恢复的那种损失。
+我宁愿丢钱包。钱包里有重要的卡和证件，但手机还同时是我的地图、通信渠道，以及进入许多账户的入口。丢手机会同时造成好几个问题，尤其在独自旅行时。补办钱包里的东西仍然很麻烦，但我通常还能在保持联系的情况下冻结银行卡、安排补办证件。这个选择也暴露出，我把多少独立生活的能力集中在了一台设备上。我会将账户恢复码安全地保存在别处，并记住一个紧急联系人号码。考虑到这些日常依赖，丢钱包会让我更有能力处理当下的困境。
 
 
 ## O37. 喜欢猫还是狗
@@ -526,11 +530,11 @@ I would rather meet an alien, provided the encounter was safe and genuinely volu
 
 **English · 100 words**
 
-For an ordinary meal, I would prefer three well-chosen options to a hundred loosely organised ones. A shorter menu reduces decision effort and can help the kitchen focus on quality. However, three options are only helpful if they cover important dietary needs and genuinely different preferences. A hundred choices might be valuable in a specialist setting, especially if the menu makes them easy to navigate. My real preference is for a manageable decision, not a particular number. I would enjoy a restaurant offering three starting points, then asking about my needs, combining helpful guidance with flexibility instead of abandoning me.
+I would choose three options, assuming at least one suits my dietary needs. With a hundred, I might spend more time imagining the meals I am missing than enjoying the one I order. Three different dishes would let me compare what matters: flavour, appetite, and price. That does not mean fewer choices always produce better decisions; someone with specific requirements might need a wider menu. My preference is about an ordinary dinner, where choosing should serve the meal rather than become its main event. I would rather finish deciding quickly and give my attention to the conversation across the table.
 
 **完整中文翻译**
 
-普通用餐时，我更喜欢三个精心选择的选项，而不是一百个组织松散的选项。短菜单减少决策努力，也可能让厨房更专注品质。不过，只有覆盖重要饮食需要和真正不同偏好时，三个选项才有帮助。在专业餐饮场景，一百种选择也可能有价值，特别是菜单容易浏览时。我真正喜欢的是容易管理的决定，而不是某个数字。我会喜欢餐厅先提供三个起点，再问我的需要，把有帮助的引导与灵活性结合，而不是放任我独自选择。
+我会选择三种选项，前提是其中至少一种符合我的饮食需要。面对一百种，我可能会花更多时间想象自己错过了哪些菜，而不是享受点好的那一道。三道不同的菜，会让我比较真正重要的事情：味道、食欲和价格。这不意味着选择越少，决定就一定越好；有特别要求的人可能需要更丰富的菜单。我的偏好针对的是一顿普通晚餐，选择应该服务于用餐，而不是变成晚餐的主要活动。我宁愿尽快作出决定，把注意力留给餐桌对面的交谈。
 
 
 ## O40. 荒岛/沙漠出事，带书还是带球
@@ -552,11 +556,11 @@ I would choose the book, while acknowledging that neither object is a proper sur
 
 **English · 100 words**
 
-I would enjoy the idea of exploring Mars, but I would not volunteer simply because the destination sounds impressive. I would want a clear scientific purpose, appropriate training, and a realistic understanding of isolation and risk. What attracts me is the chance to ask questions in a place where ordinary assumptions no longer hold. What gives me pause is how much survival would depend on cooperation and reliable systems. I would probably begin with research or mission support on Earth before considering travel. Exploration should deepen learning through preparation and restraint, rather than offer an escape from responsibilities on Earth.
+Yes, I think I would enjoy exploring Mars, particularly investigating somewhere with so many unanswered scientific questions. I imagine examining a rock formation and asking what it reveals about water, time, or the planet's history. What excites me is discovery rather than simply being far from Earth. However, I would only join a properly supported mission after training, because isolation and equipment failures would make curiosity alone insufficient. I would also need to enjoy teamwork and repetitive maintenance, not just spectacular moments. The adventure appeals to me because its ordinary work could contribute to an extraordinary expansion of human knowledge.
 
 **完整中文翻译**
 
-我会向往探索火星，但不会仅因目的地听起来厉害就报名。我希望有明确科学目的、合适训练，以及对孤立和风险的现实理解。吸引我的是，能在普通假设不再成立的地方提出问题；让我谨慎的是，生存多么依赖协作与可靠系统。考虑出发前，我大概会先在地球做研究或任务支持。探索应通过准备和克制深化学习，而不是让人逃避地球上的责任。
+会，我觉得自己会享受探索火星，尤其是研究一个仍有许多科学问题尚未解答的地方。我会想象自己观察一种岩石结构，追问它能揭示关于水、时间或这颗星球历史的什么信息。让我兴奋的是发现，而不只是远离地球。不过，我只会在接受训练后，参加有充分支持的任务，因为孤立和设备故障会让单靠好奇心远远不够。我还需要喜欢团队合作和重复性的维护工作，而不只是那些壮观的时刻。这场冒险吸引我，是因为其中平凡的工作，也可能为人类知识的非凡拓展作出贡献。
 
 
 ## O42. 你想管理自己的国家吗 / 想当总统吗（Do you want to be in charge of your country / president?）
@@ -565,11 +569,11 @@ I would enjoy the idea of exploring Mars, but I would not volunteer simply becau
 
 **English · 100 words**
 
-I would be interested in public service, but cautious about wanting to lead a country. The role involves decisions that affect people whose circumstances I may never personally experience. Before accepting such responsibility, I would need relevant competence, trusted advisers, and institutions capable of challenging my judgement. What attracts me is the possibility of improving everyday conditions at scale. What concerns me is how easily a leader can mistake personal confidence for public legitimacy. I would first contribute through a more specific area where I could demonstrate usefulness. I would pursue leadership through accountability, rather than an enjoyment of authority.
+No, I would not want to be president at this stage of my life. The position would require expertise and judgement that I have not yet developed, and enthusiasm would not make up for that gap. I am more interested in solving a specific public problem, such as helping people understand and access essential services. Working on one challenge would let me learn from those affected and see whether my contribution actually helps. That feels more responsible than seeking authority first and competence later. I would still take civic responsibility seriously; contributing to a country does not require leading it.
 
 **完整中文翻译**
 
-我对公共服务感兴趣，但会谨慎对待领导国家的愿望。这个角色涉及影响许多人的决策，而他们的处境我可能从未亲身经历。接受这种责任前，我需要相关能力、可信顾问，以及能质疑我判断的制度。吸引我的是大规模改善日常条件的可能性；让我担心的是，领导者容易把个人自信误当公共认可。我会先在更具体的领域证明自己有用。我会为了承担问责而追求领导，而不是因为享受权威。
+不，在目前这个人生阶段，我不想当总统。这个职位需要我尚未形成的专业能力和判断力，而热情不能弥补这些差距。我更想解决一个具体的公共问题，比如帮助人们理解并获得基本服务。专注于一个挑战，会让我向受影响的人学习，也能看到自己的贡献是否真的有帮助。这比先追求权力、再培养能力更负责任。我仍然会认真承担公民责任；为一个国家作出贡献，并不一定需要领导它。
 
 
 ## O43. 如果有超人，世界会变得更好还是更坏
@@ -578,11 +582,11 @@ I would be interested in public service, but cautious about wanting to lead a co
 
 **English · 100 words**
 
-Superman could make the world better by preventing disasters and helping people in immediate danger. However, extraordinary power creates questions that kindness alone cannot settle: who decides when he intervenes, and how can others challenge a mistake? If everyone relies on one person, institutions may weaken and ordinary people may feel less able to act. I would prefer a Superman who supports communities, respects legitimate oversight, and helps build capacity rather than becoming the world's permanent emergency solution. His greatest contribution might be making himself less necessary over time. The outcome depends on accountable power, alongside the powerful person's intentions.
+I think the world would become better, if Superman used his abilities mainly for rescue rather than ruling. He could reach people trapped in disasters faster than emergency teams, preventing suffering that otherwise might be unavoidable. However, saving someone from immediate danger would not give him the right to decide their country's future. His interventions should be open to scrutiny, and local responders should remain central rather than becoming spectators. My ideal Superman would remove urgent obstacles while helping others keep their agency. The world improves when extraordinary strength protects ordinary lives without claiming ownership of the decisions within them.
 
 **完整中文翻译**
 
-超人能防止灾难、帮助处于紧急危险中的人，从而改善世界。但非凡权力带来一些善良本身解决不了的问题：谁决定他何时介入？别人如何质疑错误？若所有人依赖一个人，制度可能变弱，普通人也可能觉得自己无能为力。我更喜欢支持社区、尊重合理监督、帮助建立能力的超人，而不是世界永远的紧急解决方案。他最大的贡献或许是让自己逐渐不那么必要。结果既取决于强者的意图，也取决于权力是否受到问责。
+我认为世界会变得更好，前提是超人主要把能力用于救援，而不是统治。他能比救援队更快接近灾难中被困的人，减少一些原本可能无法避免的苦难。然而，将一个人从眼前的危险中救出，并不赋予他决定这个人所在国家未来的权利。他的介入应当接受监督，当地救援人员也应继续发挥核心作用，而不是变成旁观者。我理想中的超人会消除紧急障碍，同时帮助别人保有自主行动的能力。当非凡力量保护普通生活，却不把生活中的决定据为己有时，世界才会变得更好。
 
 
 ## O44. 如果你是一种颜色，你想成为哪种
@@ -606,11 +610,11 @@ I would choose orange because it feels warm without being completely quiet. It r
 
 **English · 100 words**
 
-The strangest thing I would describe is a small jar of sourdough starter. It looks like an unremarkable mixture, yet it behaves almost like a tiny household project: it needs feeding, changes over time, and becomes part of something much larger than itself. I like the idea that the fridge holds a future loaf rather than merely today's leftovers. It also makes cooking feel collaborative, because fermentation involves processes I can support but cannot completely command. The funny part is explaining why an apparently unfinished food deserves regular attention. It reminds me that useful things can still be becoming themselves.
+The strangest thing in my fridge is a small jar of sourdough starter. It looks like forgotten batter, but the yeast and bacteria inside help bread rise and develop flavour. Unlike a finished ingredient, it needs occasional feeding with flour and water. That makes the jar feel less like stored food and more like a tiny kitchen pet, although thankfully it never demands a walk. I like the contrast between its unimpressive appearance and what it can eventually produce. Visitors might see an abandoned experiment; I see a future loaf. It gives leftovers an unusually optimistic neighbour on the shelf.
 
 **完整中文翻译**
 
-我想描述的最奇怪东西是一小罐酸面团酵种。它看起来普通，却像微型家庭项目：需要喂养，随时间改变，最终成为比自身更大的东西的一部分。我喜欢冰箱存放“未来的面包”，而不只是今天的剩菜。它也让烹饪有协作感，因为发酵过程可被支持，却不能完全由我指挥。有趣的是，要解释为什么一种看似未完成的食物值得定期关注。它提醒我，有用的东西也可能仍在逐渐成形。
+我冰箱里最奇怪的东西，是一小罐酸面团酵种。它看起来像被遗忘的面糊，但里面的酵母和细菌能够帮助面包膨发并形成风味。与已经做好的原料不同，它需要偶尔用面粉和水喂养。这让它与其说像储存的食物，不如说像厨房里的一只小宠物，不过幸好它从不要求出去散步。我喜欢它不起眼的外观与最终能做出的东西之间的反差。来访的人可能会看到一个被放弃的实验，我却看到一个未来的面包。它让架子上的剩菜，多了一位特别乐观的邻居。
 
 
 ## O46. 天空是什么颜色
@@ -619,11 +623,11 @@ The strangest thing I would describe is a small jar of sourdough starter. It loo
 
 **English · 100 words**
 
-The sky has several colours, depending on when and where we look. On a clear day, blue dominates because of how sunlight is scattered in the atmosphere. At sunset, the path through the atmosphere changes, and warmer colours become more prominent. Clouds, pollution, and location also affect what we see. I like this question because the simplest answer, 'blue', is useful but incomplete. If I were painting the sky, I would first ask what moment and feeling the picture should capture. If I were explaining it scientifically, I would discuss light and conditions. Observation depends on both world and circumstance.
+Usually, I would answer blue, but the sky is more like a changing light experiment than a painted ceiling. During daylight, air molecules scatter shorter wavelengths of sunlight, including blue, more strongly than longer wavelengths. That scattered light reaches our eyes from across the sky. At sunset, sunlight travels through more atmosphere, so much of the blue is scattered out of its direct path and warmer colours become prominent. Clouds can make the scene white or grey instead. I like that something so familiar has no single fixed colour: what we see changes as light takes different journeys towards us.
 
 **完整中文翻译**
 
-天空有多种颜色，取决于观察的时间和地点。晴天蓝色占主导，因为阳光在大气中散射。日落时，光穿过大气的路径改变，暖色更突出。云、污染和地点也影响我们所见。我喜欢这题，因为最简单的“蓝色”有用，却不完整。如果画天空，我会先问画面要捕捉什么时刻和感觉；如果科学解释，则讨论光与条件。观察同时取决于世界与情境。
+通常，我会回答蓝色，但天空更像一场不断变化的光学实验，而不是刷好颜色的天花板。白天，空气分子对阳光中较短波长的光，包括蓝光，散射得比长波长的光更强。这些散射的光从天空各处进入我们的眼睛。日落时，阳光穿过的大气路径更长，许多蓝光便被散射出直射路径，暖色因而更突出。云也可能让天空变成白色或灰色。我喜欢这一点：一个如此熟悉的东西，竟没有唯一固定的颜色；随着光沿不同的路径来到我们面前，我们看到的颜色也随之改变。
 
 
 ## O47. 去荒岛你会带什么（带三件）
@@ -632,11 +636,11 @@ The sky has several colours, depending on when and where we look. On a clear day
 
 **English · 100 words**
 
-Assuming I could carry three items and knew nothing about the island, I would choose a satellite emergency communicator, a water-purification device, and a sturdy multipurpose tool. The communicator addresses rescue, the purifier addresses a basic need, and the tool supports practical tasks. However, each has limitations: batteries can fail, purification requires an accessible water source, and a tool is only useful if I know how to use it. I would also need shelter and context-specific preparation. The exercise interests me because it forces priorities under uncertainty. My choices support survival and rescue, rather than a romantic image of isolation.
+I would bring a satellite emergency beacon, a hand-operated seawater desalinator, and a sturdy knife. The beacon gives rescuers a location, making escape my first objective rather than turning survival into a permanent lifestyle. The desalinator matters because an island may have plenty of seawater but no drinkable freshwater; an ordinary filter would not remove the salt. The knife could help prepare materials for shelter and other practical tasks. I would learn to use all three beforehand, since unfamiliar equipment offers false reassurance. My priorities are being found, staying hydrated, and adapting to my surroundings while I wait for help.
 
 **完整中文翻译**
 
-假设能带三件物品、对岛一无所知，我会选卫星紧急通讯器、净水设备和结实的多功能工具。通讯器服务救援，净水器解决基本需要，工具支持实际任务。不过每件都有局限：电池会耗尽，净水需要可获取的水源，工具只有会用才有价值。我还需要住所和适合环境的准备。这个练习有趣，因为它迫使人在不确定中排优先级。我的选择支持生存和获救，而不是孤立生活的浪漫形象。
+我会带卫星紧急信标、手动海水淡化器，以及一把结实的刀。信标能向救援人员提供位置，让离开荒岛成为首要目标，而不是把求生变成永久的生活方式。淡化器很重要，因为岛上可能海水很多，却没有可以饮用的淡水；普通过滤器无法去除盐分。刀可以帮助准备搭建住所所需的材料，并完成其他实际任务。我会提前学会使用这三样东西，因为不熟悉的设备会带来虚假的安全感。我的优先顺序是让人找到我、保持身体水分，以及在等待救援时适应周围环境。
 
 
 ## O48. 你最想成为什么动物，为什么
@@ -688,11 +692,11 @@ I would describe my collection as small pieces of everyday design: tickets, labe
 
 **English · 100 words**
 
-An unusual toy I would choose is a small kinetic sculpture made from balanced pieces. It has no screen, score, or clear finish line; the amusement comes from changing one part and watching the entire arrangement respond. I like that it encourages curiosity without immediately rewarding speed. Two people can produce different movements from the same object, making it a quiet conversation about cause and effect. I would also enjoy its failures: when it stops moving, I have to notice what changed. The toy's value is the quality of attention it invites. It makes a desk somewhere experiments can begin.
+My example of an unusual toy is a magnetic marble run mounted on a metal board. I can move ramps, add a funnel, and watch a marble take a different route. Unlike a toy with one correct solution, it lets me invent the challenge: can the marble reach a bell without falling? A failed attempt is useful because it shows exactly where my prediction was wrong. I like how a tiny adjustment can change the whole journey, making experimentation visible. It is playful enough to share with friends, yet absorbing enough to turn an ordinary break into a small investigation.
 
 **完整中文翻译**
 
-我会选一件由平衡部件组成的小型动态雕塑作为特别的玩具。它没有屏幕、分数或明确终点，乐趣来自改变一处，观察整个结构怎样回应。我喜欢它鼓励好奇，却不立即奖励速度。两人能用同一物品产生不同运动，让它成为关于因果的安静对话。我也会享受失败：停止运动时，我得留意改变了什么。玩具的价值在于它引发的专注方式。它让书桌成为实验能开始的地方。
+我举的特别玩具，是安装在金属板上的磁性滚珠轨道。我可以移动坡道、增加漏斗，然后看滚珠沿不同的路线前进。与只有一个正确解法的玩具不同，它让我自己设定挑战：滚珠能否不掉下来，就抵达铃铛？失败的尝试也有用，因为它会准确显示我的预测在哪一步出了错。我喜欢一个微小调整就能改变整个行程，让实验过程变得看得见。它足够有趣，可以和朋友一起玩；也足够吸引人，能把一次普通休息变成一场小小的探索。
 
 
 ## O52. 你厨房里最实用/有用的工具
@@ -729,11 +733,11 @@ I would like to speak with an octopus. Rather than ask it whether it is clever, 
 
 **English · 100 words**
 
-The meal I would describe is tomato and egg noodles made for a friend after a busy day. I chose something warm and familiar rather than an ambitious recipe, because the purpose was to make the evening easier. Cooking it involved small adjustments: tasting the broth, checking the noodles, and asking what my friend preferred. I like how a simple meal can communicate care without needing a formal speech. It also gives people something to do together while conversation develops naturally. The satisfying result would be someone feeling able to stop rushing and enjoy being cared for, beyond a photograph.
+Recently, I made tomato and egg noodles for a friend after a busy study day. I chose them because they were quick, warm, and easy to adjust to someone's taste. I cooked the tomatoes until they softened, added broth, and finished with eggs and noodles. Before seasoning, I asked whether my friend wanted anything spicy. We ate together and finally stopped talking about deadlines. What I enjoyed most was that a simple meal changed the pace of our evening. It reminded me that looking after someone often means noticing what they need, rather than trying to impress them with complexity.
 
 **完整中文翻译**
 
-我想描述的是在忙碌一天后给朋友做的番茄鸡蛋面。我选温暖、熟悉的食物，而不是难度很高的菜，因为目的是让晚上轻松一点。做饭包含小调整：尝汤、检查面条、问朋友偏好。我喜欢简单一餐不用正式表达就能传递关心。它也让人们在聊天自然展开时有共同活动。令人满意的结果是一个人能停止匆忙、享受被照料，而不只是拍张照片。
+最近，在忙碌的学习日结束后，我给朋友做了番茄鸡蛋面。我选择它，是因为做起来快、吃起来暖，也容易根据个人口味调整。我先把番茄煮软，加入汤，再放入鸡蛋和面条。调味前，我问朋友想不想吃辣。我们一起吃饭，终于不再谈论截止日期。最让我开心的是，一顿简单的饭改变了我们那天晚上的节奏。它提醒我，照顾一个人往往意味着留意对方需要什么，而不是用复杂的菜式让对方惊叹。
 
 
 ## O55. 选择什么作为最后一餐
@@ -742,11 +746,11 @@ The meal I would describe is tomato and egg noodles made for a friend after a bu
 
 **English · 100 words**
 
-I would choose a bowl of noodles with a broth that tastes familiar, accompanied by the people I love. For a final meal, I would care more about recognition and company than rarity or expense. A simple dish can carry memories of ordinary days, which might be more comforting than an elaborate performance. I would want enough time to eat slowly, ask people what they remember, and enjoy the small details of being together. The answer is less about a particular recipe than the experience around it. Treasured meals make us feel known, beyond any demonstration of exceptional culinary achievement.
+I would choose familiar tomato and egg noodles, sharing an unhurried final meal with the people I love most. For a final meal, I would care more about familiarity and company than rarity or expense. A simple dish can carry memories of ordinary days, which might be more comforting than an elaborate performance. I would want enough time to eat slowly, ask people what they remember, and enjoy the small details of being together. The answer is less about a particular recipe than the experience around it. Treasured meals make us feel known, beyond any demonstration of exceptional culinary achievement.
 
 **完整中文翻译**
 
-我会选一碗汤味熟悉的面，和我爱的人一起吃。最后一餐中，熟悉感和陪伴会比稀有或昂贵更重要。简单菜肴能承载普通日子的记忆，可能比精致表演更让人安心。我希望有足够时间慢慢吃，问大家记得什么，享受相聚的小细节。答案与其说关乎具体配方，不如说关乎围绕它的体验。珍贵的饭让我们感到被了解，而不只是展示非凡厨艺。
+我会选熟悉的番茄鸡蛋面，与最爱的人不慌不忙地共享最后一餐。最后一餐中，熟悉感和陪伴会比稀有或昂贵更重要。简单菜肴能承载普通日子的记忆，可能比精致表演更让人安心。我希望有足够时间慢慢吃，问大家记得什么，享受相聚的小细节。答案与其说关乎具体配方，不如说关乎围绕它的体验。珍贵的饭让我们感到被了解，而不只是展示非凡厨艺。
 
 
 ## O56. 最喜欢的歌 / 平常听什么音乐
@@ -796,11 +800,11 @@ I would choose the Dunphy family from Modern Family. Their household is often ch
 
 **English · 100 words**
 
-I would describe my home through its routines rather than its size. Important details include shared seating, a quiet corner, and objects showing people live there. I like a home that can accommodate both conversation and quiet without making either feel like an interruption. It does not need to look perfectly arranged all the time. A cup left beside a book can say something about a life in progress. For me, home is a place where I can arrive without performing competence, while still taking responsibility for the comfort of others. Its warmth would grow through habits alongside thoughtful decoration.
+My home has a shared living room, a small kitchen, and a quiet corner where I can read. The dining table is probably its busiest place: it holds meals, conversations, and sometimes unfinished work. I especially like the contrast between that lively space and the quieter corner. It means we can spend time together without expecting everyone to be sociable constantly. The rooms are not always perfectly tidy, but familiar objects make them feel lived in. For me, a comfortable home gives people both company and privacy. Its warmth comes from how we share the space, not simply its decoration.
 
 **完整中文翻译**
 
-我会通过日常习惯，而不是面积描述家。重要细节包括共享座位、安静角落，以及说明有人居住的物品。我喜欢家同时容纳交谈和安静，而且两者都不被看成打扰。不必一直完美整齐；书旁的一只杯子能说明生活正在进行。对我而言，家是不用表演自己很能干就能回来之处，同时我仍对他人的舒适负责。它的温暖会通过习惯与用心装饰共同生长。
+我家有大家共用的客厅、一间小厨房，以及一个可以读书的安静角落。餐桌大概是家里最忙碌的地方：我们在那里吃饭、聊天，有时也放着还没完成的工作。我尤其喜欢这个热闹空间与安静角落之间的对比。这意味着我们可以一起生活，而不必要求每个人一直都愿意社交。房间不总是十分整齐，但熟悉的物品让它们有生活气息。对我来说，舒适的家既提供陪伴，也保留私人空间。它的温暖来自我们如何共同使用空间，而不只是装饰。
 
 
 ## O60. 梦想度假目的地
@@ -822,11 +826,11 @@ My dream holiday would be a slow trip through the Norwegian fjords. I would want
 
 **English · 100 words**
 
-I would travel to 1969, around the first Moon landing, and spend time among ordinary people watching it happen. I would be curious about the mixture of excitement, scepticism, and uncertainty before the event became an established historical achievement. Knowing the outcome can make the past appear more inevitable than it felt to those living through it. I would ask what they expected the following decades to bring, including which hopes later changed. I would prefer observing and listening to altering events. I would recover the feeling of an unfinished future, remembering that our own moment will also change retrospectively.
+I would travel to 1969 and watch the first Moon landing with a family gathered around their television. Today, we know the mission succeeded, but they would be watching without that certainty. I want to experience the waiting, the relief, and the arguments about what might happen next. I would ask whether they expected space travel to become ordinary in their lifetimes. Their answers could reveal ambitions that history books often overlook. The visit would show how achievements can seem inevitable in hindsight. When judging an ambitious idea today, I should remember how uncertain even familiar success stories once felt.
 
 **完整中文翻译**
 
-我会去1969年首次登月前后，与普通人一起观看事件发生。我好奇它尚未成为公认历史成就之前，兴奋、怀疑和不确定性如何交织。知道结果会让过去显得比当时的人感受到的更必然。我会问他们期待未来几十年带来什么，包括后来改变的希望。我更愿观察倾听，而不是修改事件。我会重新感受尚未完成的未来，并记住回顾时我们此刻也会改变模样。
+我会回到1969年，与围坐在电视机前的一家人一起观看首次登月。今天，我们知道任务成功了，但当时的他们观看时并没有这种确定性。我想体验等待、松一口气的时刻，以及大家对未来可能发生什么的争论。我会问他们，是否期待太空旅行在自己有生之年变得普遍。他们的回答也许能揭示历史书常常忽略的愿望。这次拜访会让我看到，成就如何在事后看来显得像是必然的。在判断今天一个雄心勃勃的想法时，我应该记得，即使那些熟悉的成功故事，也曾让人充满不确定。
 
 
 ## O62. 如果能和一位名人/历史人物交流（或共进晚餐），选谁、问什么
@@ -835,11 +839,11 @@ I would travel to 1969, around the first Moon landing, and spend time among ordi
 
 **English · 100 words**
 
-I would invite Jane Austen to dinner and ask how she noticed the gap between what people said and what their circumstances allowed them to do. Her novels make social behaviour feel both sharply observed and deeply human. I would be interested in how she decided when a character deserved sympathy, criticism, or both. I might also ask what she would make of people presenting polished versions of themselves online. I would not expect her to endorse my interpretation of her work. Her challenge could sharpen my observation of motives, while reminding me to question the person behind a performance.
+I would invite Jane Austen to dinner and ask how she turned ordinary conversations into such sharp observations of society. In Pride and Prejudice, Elizabeth misjudges Darcy before new information changes her view. I would ask Austen how she made that change convincing without making Elizabeth seem foolish. Then I would show her a social media profile and ask which modern status symbols she would satirise. I imagine she would notice details I miss. The conversation could teach me to look beyond polished appearances and question my own first impressions, while still finding humour in the complicated ways people behave.
 
 **完整中文翻译**
 
-我会邀请简·奥斯汀共进晚餐，问她怎样注意到人说的话，与处境允许他们做的事之间的差距。她的小说对社会行为观察敏锐，又充满人性。我想知道她怎样决定一个角色值得同情、批评，或两者兼有。我也会问她怎样看人们在网上展示精心修饰的自己。我不会期待她认同我对作品的解读。她的质疑能磨炼我对动机的观察，并提醒我追问表演背后的人。
+我会邀请简·奥斯汀共进晚餐，问她如何把普通对话写成对社会如此敏锐的观察。在《傲慢与偏见》中，伊丽莎白起初误判了达西，后来新的信息改变了她的看法。我会问奥斯汀，她如何让这种转变显得可信，同时又不让伊丽莎白显得愚蠢。然后，我会给她看一个社交媒体个人主页，问她会讽刺哪些现代身份象征。我想她一定会注意到我忽略的细节。这场对话或许能教我看透精心修饰的外表，质疑自己的第一印象，同时仍能从人们复杂的行为中发现幽默。
 
 
 ## O63. 对你影响最大的一本书或一部电影
@@ -861,11 +865,11 @@ I would choose The Little Prince because it encourages me to question how adulth
 
 **English · 100 words**
 
-I would visit the countryside in My Neighbour Totoro, especially the place where ordinary exploration seems to open into something magical. I like that the wonder begins close to home, through trees, paths, and the attention of children. I would want to spend the day walking slowly rather than immediately searching for the most famous scene. The appeal is a world where curiosity can coexist with uncertainty and family concern. Of course, I would be visiting a fictional setting, not assuming rural life is always peaceful. I would return with greater attention to surprises hidden within surroundings I consider familiar.
+I would enter the rainy bus stop scene in My Neighbour Totoro. Satsuki is waiting with her sleeping sister when Totoro appears beside them. She lends him an umbrella, and he becomes delighted by the sound of raindrops hitting it. I love how an uncomfortable wait turns into a surprising encounter through one small act of kindness. I would bring an extra umbrella and listen before asking questions. The scene appeals to me because its magic does not require a grand adventure. It begins with paying attention and sharing something ordinary, which feels like an approach to life worth borrowing.
 
 **完整中文翻译**
 
-我会去《龙猫》的乡间，特别是普通探索似乎能通往魔法的地方。我喜欢惊奇从家附近开始，来自树、道路和孩子的专注。我会慢慢走一天，不急着找最著名场景。吸引我的是，好奇能与不确定和对家人的担忧并存。当然，拜访的是虚构世界，我不会假设乡村生活总平静。我会带回对那些藏在认为熟悉环境中的惊喜的更多关注。
+我想走进《龙猫》中雨夜等公交车的场景。姐姐小月带着熟睡的妹妹等待时，龙猫出现在她们身旁。她借给它一把伞，而它因雨点敲打伞面的声音而兴奋不已。我喜欢的是，一个小小的善意举动，让原本不舒服的等待变成了惊喜的相遇。我会带一把备用伞，先倾听，再提问。这个场景吸引我，因为它的魔法并不需要宏大的冒险，而是从专心留意和分享普通物品开始。这是一种值得借鉴的生活态度。
 
 
 ## O65. 你最珍视的拥有物（most treasured possession）
@@ -902,9 +906,9 @@ I would swap lives with Paddington for a day. He approaches unfamiliar situation
 
 **English · 100 words**
 
-If I led a country, I would begin by establishing how decisions are informed, challenged, and corrected. I would prioritise reliable basic services, access to education, and transparent public finances, while recognising that specific policies depend on local conditions. I would listen to people affected by decisions, including those whose voices are usually less visible. Rather than announce many ambitions at once, I would set a few measurable priorities and explain the trade-offs openly. Independent scrutiny would be essential because confidence does not prevent mistakes. I would build institutions so progress rests on trustworthy systems and capable citizens beyond me.
+If I led a country, I would focus first on making public education more reliable and accessible. That would mean understanding why children miss school, removing the practical barriers, and supporting teachers rather than building impressive classrooms alone. I would publish clear budgets and track attendance and learning, so citizens could see whether spending helped. Local communities should be able to challenge decisions, while independent institutions investigate misuse of money. Other priorities would depend on the country's needs, but this approach would remain: choose a concrete problem, explain the trade-offs, and correct mistakes. Good government should outlast its leader's popularity.
 
 **完整中文翻译**
 
-如果领导国家，我会先确立决策如何获得信息、接受质疑并被纠正。我会优先可靠基本服务、教育机会和透明公共财政，同时承认具体政策取决于当地条件。我会听受决策影响的人，尤其通常不被看见的群体。与其一次宣布很多雄心，我会设少量可衡量重点，公开解释取舍。独立监督不可少，因为自信不能阻止错误。我会建设制度，使进步在我之外仍依靠可信系统和有能力的公民。
+如果我是国家领导人，我会首先让公共教育更可靠、更容易获得。这意味着弄清孩子为什么无法正常上学，解决实际障碍，并支持教师，而不只是建设令人瞩目的教室。我会公开清晰的预算，追踪出勤和学习情况，让公民看见支出是否真正发挥作用。当地社区应当能够质疑决策，独立机构则负责调查资金被滥用的问题。其他优先事项取决于国家的需求，但我会坚持这种做法：选择一个具体问题、解释其中的取舍，并纠正错误。好的治理应当在领导人的人气消退后仍能持续。
 
